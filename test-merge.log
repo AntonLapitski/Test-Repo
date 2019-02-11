@@ -1,3 +1,5 @@
 I am a test merge, I am here because master wants to test difference between merge and rebase
 This line was added to test git rebase.
 This commit is made to test that I can reset.
+Test git revert after push.
+
